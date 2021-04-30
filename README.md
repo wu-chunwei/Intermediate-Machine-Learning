@@ -1,2 +1,8 @@
-# Intermediate-Machine-Learning
-kaggle上的Intermediate Machine Learning課程練習
+# Kaggle Course
+包含以下三個kaggle課程練習
+
+Data Visual
+
+geo
+
+Intermediate-Machine-Learning
